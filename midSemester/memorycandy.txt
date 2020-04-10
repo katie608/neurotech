@@ -1,0 +1,61 @@
+List	W1	W2	W3	W4	W5	W6	W7	W8	W9	W10	Group	CodeName
+1	read	page	letter	school	pencil	reading	n/a	n/a	n/a	n/a	No Candy	Winifred
+1	read	pages	letters	school	sheets	reading	study	pencil	book	unknown...	Candy	Ginger
+1	pencil	sheets	school	read	reading	a	a	a	a	a	No Candy	LacieFradetTheFake
+1	read	pages	letters	school	reading	pencil	sheets	cover	help	me	Candy	Vinnie
+1	reading	book	pages	letters	study	pencil	school	stories	cover	sheets	No Candy	Katie
+1	school	cover	pencil	study	page	letters	read	book	write	paleontologist	No Candy	Fredrick
+1	read	word	letters	school	study	pencil	cover	reading	learn	book	No Candy	pickle
+1	read	papers	letters	study	pencil	reading	book	oof	ouch	"alas, i cannot remember"	Candy	JohnJacobJingleheimerSchmidt
+1	paper	words	read	reading	paper	book	type	pen	pencil	crayon	No Candy	SnakeWithHat
+1	read	pages	letters	flag	sheets	reading	house	glass	cover	book	No Candy	Abigail
+1	read	books	reading	study	sheets	covers	letters	pencil	school	idk	Candy	Gretchen
+1	cover	letters	pages	books	write	paper	page	write	pencil	book	No Candy	Bikeshare
+1	read	pages	letters	school	study	reading	pencil	book	rock	ocean	Candy	m&m
+1	read	school	sheets	paper	pencil	i	have	no	idea	cheese	Candy	Lacie
+1	read	reading	pencil	page	cover	letters	school	learn	paper	boy oh boy i have no idea	No Candy	Doobie
+1	sheet	letter	read	school	study	cover	learn	word	teach	book	No Candy	Cielo
+1	read	pages	letters	pencil	book	house	school	study	shoe	walk	No Candy	Blueberry
+1	pencil	cover	sheet	book	read	reading	letter	paper	story	pages	No Candy	Tom Haverford
+1	school	pages	read	reading	sheet	pencil	class	book	writing	page	Candy	Cyrus
+1	pages	school	rules	read	book	story	read	read	read	read	Candy	Steve
+1	letters	book	cover	school	read	reading	pages	page	learning	learn	Candy	SmileWithCandy
+1	pages	read	reading	cover	pencil	paper	school	teach	learn	words	No Candy	Arrow
+1	read	reading	page	letter	pencil	study	book	write	word	school	No Candy	SmileNoCandy
+1	read	sheets	cover	studying	reading	bed	letter	paper	pencil	.......	Candy	Oo
+1	read	pencil	pages	sheets	school	reading	book	cover	letters	lunch	No Candy	Realname
+1	read	reading	pencil	pages	letters	covers	books	writing	sam why	please help	Candy	MV
+1	book	read	reading	school	pages	stories	cover	duck	duck	goose	Candy	MasonGrabowski
+1	pencil	book	class	read	reading	school	classroom	assignment	work	school	Candy	MsElfiesLide
+1	cover	sheet	paper	school	pencil	apple	something	don't	remember	ahhhh	No Candy	DoesNotCompute
+1	read	pages	letter	reading	school	sheets	learn	-	-	-	Candy	Adeline
+2	ocean	train	glass	shoe	apple	house	flag	pencil	rock	book	No Candy	SnakeWithHat
+2	house	apple	book	flag	pencil	school	?	?	?	?	Candy	Ginger
+2	flag	house	apple	shoe	rock	n/a	n/a	n/a	n/a	n/a	No Candy	Winifred
+2	apple	rock	shoe	cover	pencil	glass	ocean	train	house	bird	No Candy	Cielo
+2	book	pencil	shoe	house	waves	ocean	rock	sheet	cover	beach	No Candy	Realname
+2	house	apple	rock	shoe	flag	pencil	ocean	idk	idk	idk	Candy	Gretchen
+2	apple	rock	train	ocean	table	shoe	shoe	shoe	shoe	shoe	Candy	Steve
+2	house	apple	rock	train	glass	shoe	ocean	pencil	book	pants	No Candy	SmileNoCandy
+2	flag	rock	ocean	pencil	book	house	stairs	school	pages	sheets	No Candy	LacieFradetTheFake
+2	ocean	glass	pencil	shoe	apple	house	book	rock	cover	sheets	Candy	m&m
+2	house	apple	shoe	pencil	rock	glass	ocean	book	train	*sigh*	Candy	Vinnie
+2	rock	ocean	drink	sheets	water	read	reading	rocks	oceans	pencil	Candy	MsElfiesLide
+2	house	apple	shoe	rock	flag	book	ocean	train	glass	n/a	No Candy	Katie
+2	book	house	apple	train	rock	glass	shoe	pencil	clock	paleontologist	No Candy	Fredrick
+2	house	ocean	glass	rock	pencil	book	flag	shoes	apple	train	Candy	Cyrus
+2	ocean	train	pencil	boat	rock	sand	count	live	ask	try	No Candy	Bikeshare
+2	house	glass	ocean	apple	pencil	book	flag	please sam	i wasn't ready for this	save me	Candy	MV
+2	pencil	house	rock	glass	sea	ocean	shore	read	grass	play	No Candy	Tom Haverford
+2	book	rock	ocean	train	pencil	school	just	submit	it	dude	Candy	Lacie
+2	flag	apple	book	ocean	rock	glass	house	train	pencil	pages?	No Candy	Abigail
+2	shoes	glass	house	pencil	ocean	book	rock	apple	uuuuuu	uuuuuuuuuuuhhhhhhh	No Candy	Doobie
+2	ocean	glass	house	flag	apple	train	book	:(	);	:'(	Candy	MasonGrabowski
+2	house	apple	pencil	book	shoe	flag	ocean	train	rock	glass	Candy	Adeline
+2	book	shore	waves	pencil	apple	beach	pen	fence	hair	books	Candy	SmileWithCandy
+2	glass	ocean	flag	house	pencil	apple	book	guess	wind	another guess	No Candy	DoesNotCompute
+2	house	apple	shoe	book	pencil	ocean	rock	car	pants	school	No Candy	Arrow
+2	house	apple	ocean	pencil	shoe	flag	rock	book	.......	......	Candy	Oo
+2	ocean	shoe	flag	pencil	house	book	apple	train	funtainer	i forgot	No Candy	Blueberry
+2	house	apple	shoe	pencil	tree	train	rock	book	oh no	i forgot	Candy	JohnJacobJingleheimerSchmidt
+2	house	rock	book	pencil	glass	ocean	shoe	something	something else	something else else	No Candy	pickle

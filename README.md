@@ -3,15 +3,18 @@
 
 Create a document for your future self, which details how to approach a data analysis problem.
 
+Link to assignment: https://docs.google.com/document/d/16sKhxWau2iDriuojcPUmc3H_BwefQaHKv2BSkZfNlkY/edit#heading=h.7n2qer5ew2y7
+
 ### Some basic probability terms and concepts
-- Conditional probability P(A|B)
-- Bayes rule and how to use it
-- Probability Mass Function and Cumulative Distribution Function
+- Conditional probability P(A|B) = P(A∩B)/P(B)
+- Bayes rule: P(B|A) = (P(A|B) * P(A))/P(B)
 - Why are outliers important?
-Outliers will skew the mean in favor of their direction; for example, a really high outlier will raise the mean. Outliers will also increase the standard deviation regardless of whether they are higher or lower than the mean. Outliers don’t usually affect the median or mode very much.
-- P-values: P value represents the probability that a result this extreme or more extreme would happen by random chance if the null hypothesis is true.
-- What is the difference between a statistically significant event, and a large effect size?
-- False positive vs False negative, and the sort of paradox about them
+Outliers will skew the mean and increase the standard deviation of a dataset. However, outliers don’t affect the median or mode very much.
+- P-values: P value represents the probability that a result this extreme or more extreme would happen by random chance if the null hypothesis is true. In science, a P-value of 0.05 is often used to determine whether results are statistically significant.
+- Statistical Significance: A statistically significant result means that the results OR more extreme results are unlikely if the null hypothesis is true (usually means they have less than 5% chance of happening by chance). Statistical significance is useful for determining if the results mean that you can fail to reject the null hypothesis or not. 
+- Effect size is the size difference between groups in terms of the standard deviation, and can often be calculated by (mean(A) - mean(B))/Standard deviation. Effect size is useful for figuring out how big the difference between two groups is.
+- A study with a small sample size might show a large effect size, but not be statistically significant, and a study with a large sample size but very small differences between the groups might show a small effect size, but be statistically significant.
+- False positive vs False negative, and the sort of paradox about them (see week 2 for more details)
 
 ### How to test a hypothesis
 Based on this:

@@ -40,8 +40,7 @@ A hypothesis test will evaluate how likely the null hypothesis (nothing interest
   - Make sure the data is in the correct format to answer the question. Maybe you need to do some preprocessing to make the data more useful
 4. Figure out which test to perform
   - Here is a helpful and simple flow chart to figure out which test to perform:
-  <img src="https://github.com/katie608/neurotech/blob/master/finalResources/TandZflowchart.png" width="100" height="60" />
-  ![Statistical Test Flowchart](https://github.com/katie608/neurotech/blob/master/finalResources/TandZflowchart.png)
+  <img src="https://github.com/katie608/neurotech/blob/master/finalResources/TandZflowchart.png" width="300" height="auto" />
   - There are also more complete flowcharts and a description of the tests in the Final Resources folder
   - Make sure that your dataset fulfills all the assumptions that the test requires. For example, some tests may require that your data is normal. If your data is not normal, you might want to look into a bootstrapping approach, which relies on the central limit theorem.
 5. Perform the test

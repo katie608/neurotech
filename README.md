@@ -39,12 +39,12 @@ A hypothesis test will evaluate how likely the null hypothesis (nothing interest
 3. Define the problem. What exactly is the question that you are trying to answer?
   - Make sure the data is in the correct format to answer the question. Maybe you need to do some preprocessing to make the data more useful
 4. Figure out which test to perform
-  - Here is a helpful flow chart to figure out which test to perform:
-  ![Statistical Test Flowchart](https://github.com/katie608/neurotech/blob/master/finalResources/TandZflowchart.png)
-  - There are also more flowcharts and a description of the tests in the Final Resources folder
-  - Make sure that your dataset fulfills all the assumptions that the test requires. For example, some tests may require that your data is normal. If your data is not normal, you might want to look into a bootstrapping approach, which relies on the central limit theorm.
+  - Here is a helpful and simple flow chart to figure out which test to perform:
+  ![Statistical Test Flowchart](https://github.com/katie608/neurotech/blob/master/finalResources/TandZflowchart.png =100x60)
+  - There are also more complete flowcharts and a description of the tests in the Final Resources folder
+  - Make sure that your dataset fulfills all the assumptions that the test requires. For example, some tests may require that your data is normal. If your data is not normal, you might want to look into a bootstrapping approach, which relies on the central limit theorem.
 5. Perform the test
-  - Matlab has a command for about every test. SciPy may also be useful as an easy way to do statistical tests.
+  - Matlab has a command for about every test. [Scipy](https://docs.scipy.org/doc/scipy/reference/stats.html) also has many built in statistical tests.
 6. Interpret the results
   - State whether the null hypothesis was accepted or rejected
   - Make a graph, and use the graph to do the "does this make sense" test

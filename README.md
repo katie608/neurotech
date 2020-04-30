@@ -6,6 +6,10 @@ Create a document for your future self, which details how to approach a data ana
 Link to assignment: https://docs.google.com/document/d/16sKhxWau2iDriuojcPUmc3H_BwefQaHKv2BSkZfNlkY/edit#heading=h.7n2qer5ew2y7
 
 ### Some basic probability terms and concepts
+- Union P(A∪B): objects that belong to set A or set B
+- Intersection P(A∩B): objects that belong to set A and set B
+  <img src="https://github.com/katie608/neurotech/blob/master/finalResources/union-intersection.png" width="300" height="auto" text-align="center" padding-left="20px"> </img>
+- Confidence interval: estimate of range of plausible values, based on data
 - Conditional probability P(A|B) = P(A∩B)/P(B)
 - Bayes rule: P(B|A) = (P(A|B) * P(A))/P(B)
 - Why are outliers important?
@@ -22,7 +26,7 @@ Link to assignment: https://docs.google.com/document/d/16sKhxWau2iDriuojcPUmc3H_
 - False Positives vs. False Negatives
   * A false positive, or type 1 error is when a test comes back positive when the true result is negative
   * A false negative, or type 2 error, is when a test comes back negative when the true result is positive
-  * When testing for a rare disease among many people who are unlikely to have it, the number of false positives can be surprisingly high. This is due to the fact that there are many more people who have the disease than who don't have the disease. In other words, the P(actual=0 | screen=1) for the general population can actually often be higher than P(actual=1 | screen=1). See the week 2 assignment for more details, and an example.
+  * When testing for a rare disease among many people who are unlikely to have it, the number of false positives can be surprisingly high. This is due to the fact that there are many more people who have the disease than who don't have the disease. In other words, the P(actual=0 | screen=1) for the general population can actually often be higher than P(actual=1 | screen=1). See the week 2 assignment for more details, and an example. This effect is called the base rate fallacy.
 
 ### How to test a hypothesis
 Based on this:
@@ -40,8 +44,8 @@ A hypothesis test will evaluate how likely the null hypothesis (nothing interest
   - Make sure the data is in the correct format to answer the question. Maybe you need to do some preprocessing to make the data more useful
 4. Figure out which test to perform
   - Here is a helpful and simple flow chart to figure out which test to perform:
-  
-  <img src="https://github.com/katie608/neurotech/blob/master/finalResources/TandZflowchart.png" width="300" height="auto" text-align="center"> </img>
+
+  <img src="https://github.com/katie608/neurotech/blob/master/finalResources/TandZflowchart.png" width="300" height="auto" text-align="center" padding-left="20px"> </img>
   - There are also more complete flowcharts and a description of the tests in the Final Resources folder
   - Make sure that your dataset fulfills all the assumptions that the test requires. For example, some tests may require that your data is normal. If your data is not normal, you might want to look into a bootstrapping approach, which relies on the central limit theorem.
 5. Perform the test

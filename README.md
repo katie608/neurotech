@@ -14,11 +14,13 @@ Link to assignment: https://docs.google.com/document/d/16sKhxWau2iDriuojcPUmc3H_
 - Bayes rule: P(B|A) = (P(A|B) * P(A))/P(B)
 - Why are outliers important?
   *  Outliers will skew the mean and increase the standard deviation of a   dataset. However, outliers don’t affect the median or mode very much.
+- [Z-score](https://www.simplypsychology.org/z-score.html): describes how many standard deviations a data point is away from the mean of the dataset
 - How to represent data:
   * [Probability mass function](https://en.wikipedia.org/wiki/Probability_mass_function): gives the probability that a discrete variable is exactly equal to some value x
   * [Probability density function](https://en.wikipedia.org/wiki/Probability_density_function): gives the probability that a continuous variable is exactly equal to some value x
   * [Cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function): gives the probability that a continuous or discrete variable is less than or equal to some value x
 - P-values: P value represents the probability that a result this extreme or more extreme would happen by random chance if the null hypothesis is true. In science, a P-value of 0.05 is often used to determine whether results are statistically significant.
+- [Central Limit Theorem](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/BS/BS704_Probability/BS704_Probability12.html): states that if you take (big enough) random samples from a population (with replacement), and make a plot of the mean of each of the samples you take, the plot will have a standard deviation, even if the original population does not. This is especially useful when you want to do a test that requires normally distributed data.
 - Effect size vs. Statistical Significance
   * Statistical Significance: A statistically significant result means that the results OR more extreme results are unlikely if the null hypothesis is true (usually means they have less than 5% chance of happening by chance). Statistical significance is useful for determining if the results mean that you can fail to reject the null hypothesis or not.
   * Effect size is the size difference between groups in terms of the standard deviation, and can often be calculated by (mean(A) - mean(B))/Standard deviation. Effect size is useful for figuring out how big the difference between two groups is.
@@ -45,7 +47,7 @@ A hypothesis test will evaluate how likely the null hypothesis (nothing interest
 4. Figure out which test to perform
   - Here is a helpful and simple flow chart to figure out which test to perform:
 
-  <img src="https://github.com/katie608/neurotech/blob/master/finalResources/TandZflowchart.png" width="300" height="auto" text-align="center" padding-left="20px"> </img>
+  <img src="https://github.com/katie608/neurotech/blob/master/finalResources/TandZflowchart.png" width="500" height="auto" text-align="center" margin-left="20px"> </img>
   - There are also more complete flowcharts and a description of the tests in the Final Resources folder
   - Make sure that your dataset fulfills all the assumptions that the test requires. For example, some tests may require that your data is normal. If your data is not normal, you might want to look into a bootstrapping approach, which relies on the central limit theorem.
 5. Perform the test

@@ -8,6 +8,7 @@ Link to assignment: https://docs.google.com/document/d/16sKhxWau2iDriuojcPUmc3H_
 ### Some basic probability terms and concepts
 - Union P(A∪B): objects that belong to set A or set B
 - Intersection P(A∩B): objects that belong to set A and set B
+
   <img src="https://github.com/katie608/neurotech/blob/master/finalResources/union-intersection.png" width="300" height="auto" text-align="center" padding-left="20px"> </img>
 - Confidence interval: estimate of range of plausible values, based on data
 - Conditional probability P(A|B) = P(A∩B)/P(B)

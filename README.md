@@ -3,8 +3,6 @@
 
 Create a document for your future self, which details how to approach a data analysis problem.
 
-Link to assignment: https://docs.google.com/document/d/16sKhxWau2iDriuojcPUmc3H_BwefQaHKv2BSkZfNlkY/edit#heading=h.7n2qer5ew2y7
-
 ### Some basic probability terms and concepts
 - Union P(A∪B): objects that belong to set A or set B
 - Intersection P(A∩B): objects that belong to set A and set B
